@@ -2,10 +2,10 @@ openapi: 3.0.3
 info:
   title: Dummy App Service API
   description: >
-    Dummy App Service API v1.0.0
+    Dummy App Service API v2.0.0
     This release introduces a breaking change by making the `currency`
     field mandatory in order creation requests.
-  version: v1.0.0
+  version: v2.0.0
   contact:
     name: Dummy API Team
     email: api@dummyapp.dev
